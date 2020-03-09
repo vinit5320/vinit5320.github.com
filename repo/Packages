@@ -1,0 +1,33 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: me.qusic.drunkmode
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Qusic
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/me.qusic.drunkmode_0.0.1-1_iphoneos-arm.deb
+Size: 10180
+MD5sum: ab2f503feceeb2462dbf99ba56a6616d
+SHA1: 0bedd4f12dbe0c81a80c409ed3d6b9ca5c1efa5a
+SHA256: 1e5fef472e50c13ad0bf39e02a73e8cd43315daafac6c5a5027b97eeae6c588d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Qusic
+Depiction: https://vinit5320.github.io/repo/depictions/?p=me.qusic.drunkmode
+Name: DrunkMode
+
