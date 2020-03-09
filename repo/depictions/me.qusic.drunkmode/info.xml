@@ -1,7 +1,7 @@
 <package>
 	<id>me.qusic.drunkmode</id>
 	<name>Drunk Mode</name>
-	<version>0.0.1-1</version>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.0</maxiOS>
